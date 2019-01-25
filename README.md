@@ -1,2 +1,9 @@
 # 4E
-Eseercizio di prima costruzione di un repository remoto
+
+### venerdi
+
+Esercizio di prima costruzione di un repository remoto
+
+
+* primo item
+* secondo item
